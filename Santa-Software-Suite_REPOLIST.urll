@@ -2,10 +2,10 @@
 //// Santa-Software-Suite_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Santa Software Suite (SSS) project repositories by @seanpm2001
-//// As of 2025, Thursday, August 14th
+//// As of 2025, Monday, October 6th
 
 //// ----------------------------------------------------- \\\\
-//// Santa Software Suite (SSS) Project (33)
+//// Santa Software Suite (SSS) Project (34)
 //// ----------------------------------------------------- \\\\
 
 //// Santa Software Suite: core (7)
@@ -53,10 +53,11 @@ https://github.com/seanpm2001/SSS_ProgrammerTidbits_Docs
 https://github.com/seanpm2001/Santa-Software-Suite_ProgrammerTidbits
 https://github.com/seanpm2001/Santa-Software-Suite_ProgrammerTidbits_Docs
 
-//// Santa Software Suite: Logger (2)
+//// Santa Software Suite: Logger (3)
 
 https://github.com/seanpm2001/SSS_Logger
 https://github.com/seanpm2001/SSS_Logger_Docs
+https://github.com/seanpm2001/Santa-Software-Suite_Logger
 
 //// Santa Software Suite: Santa Chatbot (4)
 
@@ -67,7 +68,7 @@ https://github.com/seanpm2001/Santa-Software-Suite_Santa-Chatbot-Docs
 
 //// ----------------------------------------------------- \\\\
 //// Repo count (Santa Software Suite): 33
-//// 7+4+4+4+4+4+2+4=33
+//// 7+4+4+4+4+4+3+4=33
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -79,15 +80,15 @@ https://github.com/seanpm2001/Santa-Software-Suite_Santa-Chatbot-Docs
 //// Repo count (See also): 0
 //// 0+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 25
-//// 25+0=25
+//// Total repo count: 33
+//// 33+0=33
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2025, Thursday, August 14th at 08:57 pm PST)
-//// Line count (including blank lines and compiler line): 94
+//// File version: 4 (2025, Monday, October 6th at 09:22 pm PST)
+//// Line count (including blank lines and compiler line): 95
 //// ----------------------------------------------------- \\\\
 
 //// End of file
