@@ -2,10 +2,10 @@
 //// Santa-Software-Suite_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Santa Software Suite (SSS) project repositories by @seanpm2001
-//// As of 2025, Monday, October 6th
+//// As of 2025, Thursday, October 23rd
 
 //// ----------------------------------------------------- \\\\
-//// Santa Software Suite (SSS) Project (34)
+//// Santa Software Suite (SSS) Project (35)
 //// ----------------------------------------------------- \\\\
 
 //// Santa Software Suite: core (7)
@@ -66,9 +66,13 @@ https://github.com/seanpm2001/SSS_Santa-Chatbot_Docs
 https://github.com/seanpm2001/Santa-Software-Suite_Santa-Chatbot
 https://github.com/seanpm2001/Santa-Software-Suite_Santa-Chatbot-Docs
 
+//// Santa Software Suite: Website (1)
+
+https://github.com/seanpm2001/Santa_Software_Suite_Core_Website
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (Santa Software Suite): 33
-//// 7+4+4+4+4+4+3+4=33
+//// Repo count (Santa Software Suite): 35
+//// 7+4+4+4+4+4+3+4+1=35
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -80,15 +84,15 @@ https://github.com/seanpm2001/Santa-Software-Suite_Santa-Chatbot-Docs
 //// Repo count (See also): 0
 //// 0+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 33
-//// 33+0=33
+//// Total repo count: 35
+//// 35+0=35
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2025, Monday, October 6th at 09:22 pm PST)
-//// Line count (including blank lines and compiler line): 95
+//// File version: 5 (2025, Thursday, October 23rd at 08:20 pm PST)
+//// Line count (including blank lines and compiler line): 99
 //// ----------------------------------------------------- \\\\
 
 //// End of file
